@@ -6,7 +6,7 @@
 - node index.js
 
 2. write
-- cd src/read
+- cd src/write
 - node index.js
 
 3. test
